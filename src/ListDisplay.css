@@ -1,0 +1,16 @@
+.ListDisplay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    height: fit-content;
+    width: fit-content;
+    background:linear-gradient(rgb(79, 154, 184), lightblue, rgb(65, 173, 71));
+    font-weight: bold;
+    font-size: larger;
+}
+
